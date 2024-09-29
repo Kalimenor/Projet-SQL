@@ -6,4 +6,4 @@
 
 **Les scripts utilisés sont tous repertoriés dans le dossier Scripts**
 
-![](BDDexo.png)
+![dbeaver](https://github.com/user-attachments/assets/82100d85-d7bb-4d91-91e3-e103887e4906)
